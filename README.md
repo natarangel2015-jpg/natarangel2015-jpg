@@ -1,4 +1,4 @@
-# Olá 👋 Hello 👋
+# Olá 👋 
 
 🇧🇷 **Português** | 🇺🇸 [English Version](README_EN.md)
 
